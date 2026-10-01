@@ -38,7 +38,7 @@ Es un laboratorio enfocado en los fundamentos de HTML5 como las tablas y los pá
 
 Taller-Aspirantes/
 ├── includes/
-│   ├── header.php       
+│   ├── header.php       📁 (Contiene el <header>, Navbar y Breadcrumb dinámico)
 │   └── footer.php       📁 (Contiene el <footer> con enlaces y año dinámico)
 ├── uploaded_files/   📁 (Carpeta donde se guardarán las fotos subidas con permisos de escritura)
 │   └── .gitkeep        📄 (Archivo oculto opcional para que Git mantenga la carpeta vacía)
